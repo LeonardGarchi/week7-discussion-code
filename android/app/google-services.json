@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74595411274",
+    "project_id": "cmsc23-todo-app-lagarchitorena",
+    "storage_bucket": "cmsc23-todo-app-lagarchitorena.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74595411274:android:8ee2d21076ca174b590db3",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74595411274-o158129gg21i26kjbhgfqfaljfsrsh2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRx4r5xNThwv6C_CguU1YyjzmownFSm9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74595411274-o158129gg21i26kjbhgfqfaljfsrsh2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
